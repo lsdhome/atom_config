@@ -1,2 +1,2 @@
 # atom_config
-my atom config
+my atom config.
